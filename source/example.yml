@@ -1,0 +1,6 @@
+CHAIN: kujira
+CHAIN_ID: kaiyo-1
+CHAIN_HOME: .kujira
+CHAIN_DAEMON: kujirad
+CHAIN_VERSION: 0.6.4
+CHAIN_TYPE: mainnet
